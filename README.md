@@ -56,14 +56,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Library & Search | Song View & Chords | Transpose & Capo | Chord Diagram |
-|:---:|:---:|:---:|:---:|
-| *(Add screenshot)* | *(Add screenshot)* | *(Add screenshot)* | *(Add screenshot)* |
-
----
-
 ## 📝 Supported Song Formats
 
 ChordView supports both standard chord chart formats seamlessly:
@@ -107,30 +99,6 @@ And the moon is the only light we'll see
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- [Android Studio Ladybug | Koala | Hedgehog](https://developer.android.com/studio) or newer
-- JDK 17 or JDK 21
-- Android SDK with platform 35 installed
-
-### Building from Source
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/ChordView.git
-   cd ChordView/"ChordView V1"
-   ```
-2. Open the project in Android Studio.
-3. Sync Gradle and build the APK:
-   ```bash
-   ./gradlew assembleDebug
-   ```
-4. Run on an emulator or connected physical Android device:
-   ```bash
-   ./gradlew installDebug
-   ```
-
----
 
 ## 📋 Release Notes — V1.0.0
 
